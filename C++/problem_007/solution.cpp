@@ -14,15 +14,15 @@ using std::vector;
 bool is_prime(const int &n);
 vector<int> nth_prime(const int &n);
 
-int main(int argc, char *argv[])
-{
-    vector<int> primes = nth_prime(atoll(argv[1]));
-    for (auto i : primes)
-    {
-        std::cout << i << std::endl;
-    }
-    return 0;
-}
+// int main(int argc, char *argv[])
+// {
+//     vector<int> primes = nth_prime(atoll(argv[1]));
+//     for (auto i : primes)
+//     {
+//         std::cout << i << std::endl;
+//     }
+//     return 0;
+// }
 
 /**
  * Returns a vector of prime numbers from the first prime number to the nth

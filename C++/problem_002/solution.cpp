@@ -12,14 +12,14 @@
 /* Declaration of functions */
 long long fibonacci();
 
-int main()
-{
-    long long result = fibonacci();
+// int main()
+// {
+//     long long result = fibonacci();
 
-    std::cout << result << std::endl;
+//     std::cout << result << std::endl;
 
-    return 0;
-}
+//     return 0;
+// }
 
 /**
  * Find the sum of the even-valued terms
