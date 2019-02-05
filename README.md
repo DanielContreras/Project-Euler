@@ -15,7 +15,7 @@ A collection of solutions to a few [Project Euler](https://projecteuler.net/) pr
 | 007     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_007/solution.cpp) | DNE | DNE  | DNE    | DNE        |
 | 008     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_008/solution.cpp) | DNE | DNE  | DNE    | DNE        |
 | 009     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_009/solution.cpp) | DNE | DNE  | DNE    | DNE        |
-| 010     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_009/solution.cpp) | DNE | DNE  | DNE    | DNE        |
+| 010     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_010/solution.cpp) | DNE | DNE  | DNE    | DNE        |
 
 # Contributing with your solutions
 
