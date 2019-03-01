@@ -31,14 +31,12 @@ The commit message for solution files must follow the following structure:
 
     `Add [Language] solution for problem [problem number]`
 
-## Steps
+## Getting Started
 
-1. Fork the repository
-2. Clone the repository  
+1. Clone the repository  
     `git clone https://github.com/DanielContreras/Project-Euler`
-3. Create your solution branch  
+2. Create your solution branch  
     `git checkout -b username/add-[language]-solution-problem-[problem number]`
-4. Add your changes  
-5. Commit your changes  
-6. Push to your branch  
-7. Submit your changes for review by clicking `Compare & pull request` on your repository. 
+3. Commit your changes with the following message format
+    `Add [language] solution problem [problem number]`
+3. Submit your changes for review by clicking `Compare & pull request` on your repository. 
