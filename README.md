@@ -6,7 +6,7 @@ A collection of solutions to a few [Project Euler](https://projecteuler.net/) pr
 
 | Problem | C++                                                                                                     | C   | Java | Python | Haskell |
 | :-:     | :-:                                                                                                     | :-: | :-:  | :-:    | :-:        |
-| 001     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_001/solution.cpp) | DNE | DNE  | DNE    | DNE        |
+| 001     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_001/solution.cpp) | DNE | DNE  | [Solution](https://github.com/DanielContreras/Project-Euler/blob/master/Python/problem_001/solution.py)    | DNE        |
 | 002     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_002/solution.cpp) | DNE | DNE  | DNE    | DNE        |
 | 003     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_003/solution.cpp) | DNE | DNE  | DNE    | DNE        |
 | 004     | [Solution](https://github.com/DanielContreras/project_euler/blob/master/C++/problem_004/solution.cpp) | DNE | DNE  | DNE    | DNE        |
